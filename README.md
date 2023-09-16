@@ -30,7 +30,9 @@
 
 ## About Me:
 
-- Currently developing at GraphQL One Stop Shop (OSS), an open source product facilitating the notoriously challenging development of GraphQL APIs. GraphQL OSS is an integration suite that merges dynamic schema visualization with real-time request testing and validation for a heightened clarity of GraphQL APIs 🤖
+- Currently developing at GraphQL One Stop Shop (OSS), an open source product facilitating the notoriously challenging development of GraphQL APIs 🤖
+
+- GraphQL OSS is an integration suite that merges dynamic schema visualization with real-time request testing and validation for a heightened clarity of GraphQL APIs 👨🏽‍💻
 
 - Check out my Tech Talk, "Ain't No Rest for the GraphQL Developer," sponsored by Jeeny + Bractlet in the "Featured" below 📹
 
