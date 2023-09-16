@@ -30,13 +30,13 @@
 
 ## About Me:
 
-- Currently developing at GraphQL One Stop Shop (OSS), an open source product facilitating the notoriously challenging development of GraphQL APIs 🤖
+- Software engineer with 3+ years of experience in fullstack development 🎯
 
-- GraphQL OSS is an integration suite that merges dynamic schema visualization with real-time request testing and validation for a heightened clarity of GraphQL APIs 👨🏽‍💻
+- Currently developing at GraphQL One Stop Shop (OSS), an open source product facilitating the notoriously challenging development of GraphQL APIs 🤖
 
 - Check out my Tech Talk, "Ain't No Rest for the GraphQL Developer," sponsored by Jeeny + Bractlet in the "Featured" below 📹
 
-- When I'm not coding, you can find me snowboarding down any West coast mountain, performing at an open mic night, or exercising in the beauty of nature 😎
+- When I'm not coding, you can find me snowboarding down any West coast mountain, performing at an open mic night, or exercising in the beauty of nature 🏂🎤🏋🏽‍♂️
 
 <!--
 **felipeaocampo/felipeaocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
