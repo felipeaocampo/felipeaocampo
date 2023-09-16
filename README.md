@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div >
 # Welcome to my Profile! 🦊
 
 </div>
