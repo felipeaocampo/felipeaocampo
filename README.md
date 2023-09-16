@@ -1,5 +1,5 @@
-<div>
-## Welcome to my Profile! 🦊
+<div align="center">
+# Welcome to my Profile! 🦊
 
 </div>
 what's up fools?
