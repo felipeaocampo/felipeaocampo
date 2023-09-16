@@ -1,8 +1,12 @@
 <div align="center">
 <h1>Welcome to my Profile! 🦊</h1>
+<hr/>
+
+I am a software engineer with 3+ years of experience in fullstack development and a passion for anything Typescript, Javascript, React, and GraphQL
+I'm passionate about building products with an emphasis on the user experience
 
 </div>
-what's up fools?
+
 
 <!--
 **felipeaocampo/felipeaocampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
