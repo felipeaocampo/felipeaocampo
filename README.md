@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Welcome to my Profile! 🦊</h1>
 
-<h3>I am a software engineer with 3+ years of experience in fullstack development and a passion for anything Typescript, Javascript, React, and GraphQL<h3/>
+<h3>I am a software engineer a passion for anything Typescript, Javascript, React, and GraphQL<h3/>
 <h3>I am passionate about developing engaging, accessible, and scalable frontends, and a believer in engineering exceptional backends to further optimize the user experience</h3>
 
 <br>
